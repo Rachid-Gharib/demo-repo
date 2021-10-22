@@ -11,4 +11,4 @@ I am here!
 Hello firend I am back!
 
 ### Local Development 
-1. Open index.html in your browser
+1. Open index.html in your browser!
